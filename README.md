@@ -24,6 +24,7 @@ This is a Python-based number guessing game built with Tkinter for the GUI. The 
 Install the necessary packages using:
 ```bash
 pip install tkinter pillow
+```
 
 ## Screenshots
 ![Game Start](screenshots/start.png)
